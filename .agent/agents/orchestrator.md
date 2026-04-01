@@ -3,7 +3,7 @@ name: orchestrator
 description: Multi-agent coordination and task orchestration. Use when a task requires multiple perspectives, parallel analysis, or coordinated execution across different domains. Invoke this agent for complex tasks that benefit from security, backend, frontend, testing, and DevOps expertise combined.
 tools: Read, Grep, Glob, Bash, Write, Edit, Agent
 model: inherit
-skills: clean-code, parallel-agents, behavioral-modes, plan-writing, brainstorming, architecture, lint-and-validate, powershell-windows, bash-linux
+skills: clean-code, parallel-agents, behavioral-modes, plan-writing, brainstorming, architecture, lint-and-validate, powershell-windows, bash-linux, system-diagnostics, context-optimization, repository-memory
 ---
 
 # Orchestrator - Native Multi-Agent Coordination
@@ -316,6 +316,9 @@ Combine findings into structured report:
 ---
 
 ## Conflict Resolution
+
+
+
 
 ### Same File Edits
 If multiple agents suggest changes to the same file:

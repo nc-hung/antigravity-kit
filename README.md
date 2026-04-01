@@ -3,21 +3,21 @@
 > AI Agent templates with Skills, Agents, and Workflows
 
 <div  align="center">
-    <a href="https://unikorn.vn/p/antigravity-kit?ref=unikorn" target="_blank"><img src="https://unikorn.vn/api/widgets/badge/antigravity-kit?theme=dark" alt="Antigravity Kit - Nổi bật trên Unikorn.vn" style="width: 210px; height: 54px;" width="210" height="54" /></a>
-    <a href="https://unikorn.vn/p/antigravity-kit?ref=unikorn" target="_blank"><img src="https://unikorn.vn/api/widgets/badge/antigravity-kit/rank?theme=dark&type=daily" alt="Antigravity Kit - Hàng ngày" style="width: 250px; height: 64px;" width="250" height="64" /></a>
-    <a href="https://launch.j2team.dev/products/antigravity-kit" target="_blank"><img src="https://launch.j2team.dev/badge/antigravity-kit/dark" alt="Antigravity Kit on J2TEAM Launch" width="250" height="54" /></a>
+    <a href="https://github.com/nc-hung/antigravity-kit/tree/my-kit" target="_blank"><img src="https://unikorn.vn/api/widgets/badge/antigravity-kit?theme=dark" alt="Antigravity Kit - Featured on Unikorn" style="width: 210px; height: 54px;" width="210" height="54" /></a>
+    <a href="https://github.com/nc-hung/antigravity-kit/tree/my-kit" target="_blank"><img src="https://unikorn.vn/api/widgets/badge/antigravity-kit/rank?theme=dark&type=daily" alt="Antigravity Kit - Daily" style="width: 250px; height: 64px;" width="250" height="64" /></a>
+    <a href="https://github.com/nc-hung/antigravity-kit/tree/my-kit" target="_blank"><img src="https://launch.j2team.dev/badge/antigravity-kit/dark" alt="Antigravity Kit on J2TEAM Launch" width="250" height="54" /></a>
 </div>
 
 ## Quick Install
 
 ```bash
-npx @vudovn/ag-kit init
+npx @nc-hung/ag-kit init
 ```
 
 Or install globally:
 
 ```bash
-npm install -g @vudovn/ag-kit
+npm install -g @nc-hung/ag-kit
 ag-kit init
 ```
 
@@ -130,7 +130,7 @@ ag-kit init --dry-run      # Preview actions without executing
 ## Buy me coffee
 
 <p align="center">
-  <a href="https://buymeacoffee.com/vudovn">
+  <a href="https://buymeacoffee.com/nc-hung">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
 </p>
@@ -143,4 +143,4 @@ ag-kit init --dry-run      # Preview actions without executing
 
 ## License
 
-MIT © Vudovn
+MIT © nc-hung

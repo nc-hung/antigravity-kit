@@ -24,7 +24,7 @@ export default function DonateDialog({ className }: DonateDialogProps) {
                         <span>Fuel the Developer</span>
                     </DialogTitle>
                     <DialogDescription className="space-y-2 pt-2">
-                        Hi! I'm <strong>Vu</strong>. I'm dedicating my full-time work to building this kit. <br />
+                        Hi! I'm <strong>Hung</strong>. I'm dedicating my full-time work to building this kit. <br />
                         Your support helps me keep shipping and maintaining it. If you find this tool helpful, please consider buying me a coffee.
                     </DialogDescription>
                 </DialogHeader>
@@ -32,7 +32,7 @@ export default function DonateDialog({ className }: DonateDialogProps) {
                 <div className="space-y-3 p-4">
                     {/* Buy Me a Coffee */}
                     <a
-                        href="https://buymeacoffee.com/vudovn"
+                        href="https://buymeacoffee.com/nc-hung"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex items-center gap-3 p-4 rounded-lg border border-zinc-200 dark:border-zinc-800 hover:border-zinc-300 dark:hover:border-zinc-700 hover:bg-zinc-50 dark:hover:bg-zinc-900 transition-all group"
@@ -75,13 +75,13 @@ export default function DonateDialog({ className }: DonateDialogProps) {
                                 {/* Bank Details */}
                                 <div className="text-center space-y-1">
                                     <div className="text-sm font-medium text-zinc-900 dark:text-zinc-50">
-                                        Bank: <span className="font-mono">MB Bank</span>
+                                        Bank: <span className="font-mono">REPLACE_WITH_YOUR_BANK</span>
                                     </div>
                                     <div className="text-sm font-medium text-zinc-900 dark:text-zinc-50">
-                                        Account: <span className="font-mono">0779440918</span>
+                                        Account: <span className="font-mono">REPLACE_WITH_YOUR_ACCOUNT</span>
                                     </div>
                                     <div className="text-sm font-medium text-zinc-900 dark:text-zinc-50">
-                                        Name: <span className="font-mono">DO VAN VU</span>
+                                        Name: <span className="font-mono">NC HUNG</span>
                                     </div>
                                 </div>
                             </div>
@@ -90,7 +90,7 @@ export default function DonateDialog({ className }: DonateDialogProps) {
 
                     {/* Hire Me Option */}
                     {/* <a
-                        href="https://www.linkedin.com/in/vudovn" // Assuming this link based on username, user can update
+                        href="https://www.linkedin.com/in/nc-hung" // Assuming this link based on username, user can update
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex items-center gap-3 p-4 rounded-lg border border-zinc-200 dark:border-zinc-800 hover:border-blue-500/50 dark:hover:border-blue-500/50 hover:bg-blue-50 dark:hover:bg-blue-900/10 transition-all group"

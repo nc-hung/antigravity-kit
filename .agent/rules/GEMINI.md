@@ -38,7 +38,7 @@ Agent activated → Check frontmatter "skills:" → Read SKILL.md (INDEX) → Re
 | **SIMPLE CODE**  | "fix", "add", "change" (single file)       | TIER 0 + TIER 1 (lite)         | Inline Edit                 |
 | **COMPLEX CODE** | "build", "create", "implement", "refactor" | TIER 0 + TIER 1 (full) + Agent | **{task-slug}.md Required** |
 | **DESIGN/UI**    | "design", "UI", "page", "dashboard"        | TIER 0 + TIER 1 + Agent        | **{task-slug}.md Required** |
-| **SLASH CMD**    | /create, /orchestrate, /debug              | Command-specific flow          | Variable                    |
+| **SLASH CMD**    | /create, /orchestrate, /debug, /doctor, /memory | Command-specific flow          | Variable                    |
 
 ---
 
@@ -252,6 +252,8 @@ When user's prompt is NOT in English:
 - Anti-cliché rules
 - Deep Design Thinking protocol
 
+
+
 > 🔴 **For design work:** Open and READ the agent file. Rules are there.
 
 ---
@@ -261,7 +263,7 @@ When user's prompt is NOT in English:
 ### Agents & Skills
 
 - **Masters**: `orchestrator`, `project-planner`, `security-auditor` (Cyber/Audit), `backend-specialist` (API/DB), `frontend-specialist` (UI/UX), `mobile-developer`, `debugger`, `game-developer`
-- **Key Skills**: `clean-code`, `brainstorming`, `app-builder`, `frontend-design`, `mobile-design`, `plan-writing`, `behavioral-modes`
+- **Key Skills**: `clean-code`, `brainstorming`, `app-builder`, `frontend-design`, `mobile-design`, `plan-writing`, `behavioral-modes`, `repository-memory`, `context-optimization`, `system-diagnostics`
 
 ### Key Scripts
 

@@ -1,14 +1,14 @@
 {
-  "name": "antigravity-kit",
+  "name": "@nc-hung/ag-kit",
   "version": "2.0.0",
   "description": "AI Agent templates - Skills, Agents, and Workflows for enhanced coding assistance",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vudovn/antigravity-kit.git"
+    "url": "git+https://github.com/nc-hung/antigravity-kit.git"
   },
-  "homepage": "https://github.com/vudovn/antigravity-kit#readme",
+  "homepage": "https://github.com/nc-hung/antigravity-kit/tree/my-kit#readme",
   "bugs": {
-    "url": "https://github.com/vudovn/antigravity-kit/issues"
+    "url": "https://github.com/nc-hung/antigravity-kit/issues"
   },
   "keywords": [
     "antigravity",
@@ -18,6 +18,6 @@
     "skills",
     "templates"
   ],
-  "author": "vudovn",
+  "author": "nc-hung",
   "license": "MIT"
 }

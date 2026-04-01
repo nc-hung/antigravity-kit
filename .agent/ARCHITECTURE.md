@@ -9,8 +9,8 @@
 Antigravity Kit is a modular system consisting of:
 
 - **20 Specialist Agents** - Role-based AI personas
-- **36 Skills** - Domain-specific knowledge modules
-- **11 Workflows** - Slash command procedures
+- **39 Skills** - Domain-specific knowledge modules
+- **12 Workflows** - Slash command procedures
 
 ---
 
@@ -153,22 +153,25 @@ Modular knowledge domains that agents can load on-demand. based on task context.
 | `bash-linux`         | Linux commands, scripting |
 | `powershell-windows` | Windows PowerShell        |
 
-### Other
+### Other & Management
 
-| Skill                     | Description               |
-| ------------------------- | ------------------------- |
-| `clean-code`              | Coding standards (Global) |
-| `behavioral-modes`        | Agent personas            |
-| `parallel-agents`         | Multi-agent patterns      |
-| `mcp-builder`             | Model Context Protocol    |
-| `documentation-templates` | Doc formats               |
-| `i18n-localization`       | Internationalization      |
-| `performance-profiling`   | Web Vitals, optimization  |
-| `systematic-debugging`    | Troubleshooting           |
+| Skill                   | Description                                          |
+| ----------------------- | ---------------------------------------------------- |
+| `clean-code`            | Coding standards (Global)                            |
+| `behavioral-modes`      | Agent personas                                       |
+| `parallel-agents`       | Multi-agent patterns                                 |
+| `mcp-builder`           | Model Context Protocol                               |
+| `documentation-templates` | Doc formats                                         |
+| `i18n-localization`     | Internationalization                                 |
+| `performance-profiling` | Web Vitals, optimization                             |
+| `systematic-debugging`  | Troubleshooting                                      |
+| `repository-memory`     | Persistent knowledge via CLAUDE.md                   |
+| `system-diagnostics`    | /doctor workspace health check                       |
+| `context-optimization`  | History compacting and summarization                 |
 
 ---
 
-## 🔄 Workflows (11)
+## 🔄 Workflows (12)
 
 Slash command procedures. Invoke with `/command`.
 
@@ -178,10 +181,11 @@ Slash command procedures. Invoke with `/command`.
 | `/create`        | Create new features      |
 | `/debug`         | Debug issues             |
 | `/deploy`        | Deploy application       |
+| `/doctor`        | Workspace diagnostics    |
 | `/enhance`       | Improve existing code    |
 | `/orchestrate`   | Multi-agent coordination |
 | `/plan`          | Task breakdown           |
-| `/preview`       | Preview changes          |
+| `/preview`       | Preview server status    |
 | `/status`        | Check project status     |
 | `/test`          | Run tests                |
 | `/ui-ux-pro-max` | Design with 50 styles    |
@@ -267,10 +271,10 @@ For details, see [scripts/README.md](scripts/README.md)
 | Metric              | Value                         |
 | ------------------- | ----------------------------- |
 | **Total Agents**    | 20                            |
-| **Total Skills**    | 36                            |
-| **Total Workflows** | 11                            |
+| **Total Skills**    | 39                            |
+| **Total Workflows** | 12                            |
 | **Total Scripts**   | 2 (master) + 18 (skill-level) |
-| **Coverage**        | ~90% web/mobile development   |
+| **Coverage**        | ~95% web/mobile development   |
 
 ---
 

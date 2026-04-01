@@ -11,13 +11,13 @@
 ## Quick Install
 
 ```bash
-npx @vudovn/ag-kit init
+npx @nc-hung/ag-kit init
 ```
 
 Or install globally:
 
 ```bash
-npm install -g @vudovn/ag-kit
+npm install -g @nc-hung/ag-kit
 ag-kit init
 ```
 
@@ -111,7 +111,7 @@ ag-kit init --dry-run      # Preview actions without executing
 ## Buy me coffee
 
 <p align="center">
-  <a href="https://buymeacoffee.com/vudovn">
+  <a href="https://buymeacoffee.com/nc-hung">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
 </p>
@@ -124,4 +124,4 @@ ag-kit init --dry-run      # Preview actions without executing
 
 ## License
 
-MIT © Vudovn
+MIT © nc-hung
